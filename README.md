@@ -1,10 +1,10 @@
 
-##LARAVEL 8 AUTH PANNEL AND FUNCTIONALITY CREATION BY COMMAND
+# LARAVEL 8 AUTH PANNEL AND FUNCTIONALITY CREATION BY COMMAND
 
-# To create laravel project
+#### To create laravel project
 composer create-project laravel/laravel example-app
 
-# To install laravel ui in project
+#### To install laravel ui in project
 composer require laravel/ui
 
 # To add auth in project with vue js
