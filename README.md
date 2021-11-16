@@ -2,7 +2,10 @@
 # LARAVEL 8 AUTH PANNEL AND FUNCTIONALITY CREATION BY COMMAND
 
 ### To create laravel project
-composer create-project laravel/laravel example-app
+composer create-project laravel/laravel project-name
+
+### Enter in Project Directory
+cd project-name
 
 ### To install laravel ui in project
 composer require laravel/ui
